@@ -2,4 +2,5 @@
 - bài 1:
 - bài 2:
 # hết phần khởi tạo
-- bài 3: 
+- bài 3:
+    - viết về hàm
