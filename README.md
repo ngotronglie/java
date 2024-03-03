@@ -4,3 +4,9 @@
 # hết phần khởi tạo
 - bài 3:
     - viết về hàm
+  
+- bài 4:
+    - object & class
+  
+
+  

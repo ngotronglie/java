@@ -28,6 +28,8 @@ public class main {
         }
 
     }
+
+
     public static void printIntergerList(){ // hàm trùng với hàm trên nhưng có đầu vào x
 
     }
