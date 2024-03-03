@@ -1,6 +1,17 @@
 package dogmanagement;
 
+import data.Dog;
+
 public class DogManagement {
+    public static void main(String[] args) {
+        // lấy khuôn dog ra để bắt đầu đổ infor <> i chang đi làm thẻ căn cước
+        // sau khi chờ khô , ta được object thuộc nhóm vừa đúc
+        // đặt tên gọi tắt cho obj để dễ dàng nói chuyện, tham chiếu đến
+        Dog chiHu  = new Dog("Ngo Trong Liem", 2024, 19.5);
+        // biến / tên tắt   object
+        // có object sẽ biết làm gì đó, c hó biết sủa
+        chiHu.bark();
+    }
 }
 
 /**
